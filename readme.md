@@ -67,6 +67,8 @@ Task #5 Temperature Converter
     // 4. Format output to 2 decimal places
     // Test with various temperatures }
 
+------- DIY Programs --------------
+
 Task 6 :-
     1. Prime Number Checker with Optimization
     Problem Definition:
@@ -91,3 +93,25 @@ Task 10 :-
     5. Find the Longest Word in a Sentence
     Problem Definition:
     Write a Dart function that takes a sentence and returns the longest word. Use functional programming with Dart’s built-in list methods and a for-each loop to accomplish this task.
+
+-------Exception programs---------
+
+Task 11 :-
+    1. Program to Parse an Integer from a String
+    Problem: Parse an integer from a user-provided string input. Handle any formatting errors.
+
+Task 12 :-
+    2. Program to Handle Division by Zero
+    Problem: Write a function that performs division of two numbers and handles division by zero gracefully.
+
+Task 13 :-
+    3. Program to Access an Out-of-Bounds Index in a List
+    Problem: Access an element in a list by index, with error handling for out-of-bounds access.
+
+Task 14 :-
+    4. Program to Handle a Null Value in a Nullable Variable    
+    Problem: Write a function to print the length of a string. If the string is null, catch the error.
+
+Task 15 :-
+    5. Program to Demonstrate Custom Exception
+    Problem: Create a custom exception for invalid age input and use it in a function that checks if a user is eligible for voting.
