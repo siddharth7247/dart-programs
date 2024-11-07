@@ -7,10 +7,10 @@ void main(){
   const version = 1.5;
 
   //error occurs beacuse we can not change the value of type const variable once its assigned
-  print(pi++);
+  //print(pi++);
   
   // //error occurs beacuse we can not reassign the value of final variable
-  dateOfBirth =' 12/12/2003';
+ // dateOfBirth =' 12/12/2003';
 
 
 }

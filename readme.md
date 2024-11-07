@@ -69,32 +69,32 @@ Task #5 Temperature Converter
 
 ------- DIY Programs --------------
 
-Task 6 :-
+Task 1 :-
     1. Prime Number Checker with Optimization
     Problem Definition:
     Write a Dart function that checks if a given number is prime. Optimize the function so that it only checks up to the square root of the number. Use an if-else statement within a for loop for control flow.
 
-Task 7 :-
+Task 2 :-
     2. Fibonacci Series using Recursion
     Problem Definition:
     Write a Dart function that generates the Fibonacci series up to the nth term using recursion. The function should call itself to compute each Fibonacci number.
 
-Task 8 :-
+Task 3 :-
     3. Find All Prime Factors of a Number
     Problem Definition:
     Write a Dart function that finds all prime factors of a given number using nested control flow and functions. Each factor should be checked if it’s a prime.
 
-Task 9 :-
+Task 4 :-
     4. Sum of Digits until a Single Digit
     Problem Definition:
     Write a Dart program that reduces a number to a single digit by recursively summing its digits until a single digit is obtained.
 
-Task 10 :-
+Task 5 :-
     5. Find the Longest Word in a Sentence
     Problem Definition:
     Write a Dart function that takes a sentence and returns the longest word. Use functional programming with Dart’s built-in list methods and a for-each loop to accomplish this task.
 
--------Exception programs---------
+-------Exception Handling programs--------------------------------------
 
 Task 11 :-
     1. Program to Parse an Integer from a String
@@ -115,3 +115,11 @@ Task 14 :-
 Task 15 :-
     5. Program to Demonstrate Custom Exception
     Problem: Create a custom exception for invalid age input and use it in a function that checks if a user is eligible for voting.
+
+--------- Asynchronous Programing(async,await,future)------------------------
+
+Task 16 : call an api using the async await and get data printed. note: try catch for future error handling.
+
+Task 17 : call an api without ansyc await 
+
+Task 18 : use future.delayed and fetch data at every x seconds.
